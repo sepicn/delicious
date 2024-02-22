@@ -1,4 +1,4 @@
-# 🍽️ Yummies Web App 🥘
+# 🍽️ [Yummies Web App](https://lambent-tulumba-50402c.netlify.app/) 🥘
 
 Yummies is a web application built with React that allows users to discover and explore various recipes from different cultural cuisines. The app utilizes the Spoonacular API to fetch recipes and display them to users. Users can search for recipes by name and find detailed instructions along with the required ingredients.
 
